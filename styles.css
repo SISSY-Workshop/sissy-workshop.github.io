@@ -133,13 +133,13 @@ body {
   }
   
   .sticky-nav {
-    background: rgba(10, 10, 35, 0.8);
+    background: rgba(10, 10, 35, 0.5);
     color: white;
     position: sticky;
     top: 0;
     z-index: 1000;
     padding: 1rem 2rem;
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(4px);
     -webkit-backdrop-filter: blur(10px);
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
   }
