@@ -153,8 +153,9 @@ body {
   }
 
   .announcement {
-    border: 5px solid #ff0000; 
-    padding: 10px 10px 1px 25px; 
+    border: 10px solid #ff0000; 
+    padding: 10px 10px 10px 10px; 
+    text-align: center;
     margin: 30px;
     border-radius: 5px; 
     background-color: rgba(192, 192, 192, 0.2);
